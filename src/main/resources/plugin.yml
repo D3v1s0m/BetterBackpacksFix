@@ -1,0 +1,7 @@
+name: BetterBackpacksFix
+version: '${project.version}'
+main: me.d3v1s0m.betterbackpacksfix.BetterBackpacksFix
+api-version: 1.19
+softdepend: [ BetterBackpacks ]
+author: D3v1s0m
+description: A fix for BetterBackpacks 1.19
